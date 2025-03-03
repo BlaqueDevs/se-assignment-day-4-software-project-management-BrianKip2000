@@ -2,10 +2,10 @@
 [![Open in Visual Studio Code](https://classroom.github.com/assets/open-in-vscode-2e0aaae1b6195c2367325f4f02e2d04e9abb55f0b24a779b69b11b9e10269abc.svg)](https://classroom.github.com/online_ide?assignment_repo_id=18503716&assignment_repo_type=AssignmentRepo)
 # SE_DAY4_Software-Project-Management
 ## 1. Why is timely delivery crucial in software project management, and how can project managers ensure that deadlines are met?
-Customer Satisfaction: Delays can lead to dissatisfaction, loss of trust, and potential loss of business.
-Competitive Advantage: Delivering on time helps maintain a competitive edge in the market.
-Cost Control: Delays often lead to increased costs due to extended resource utilization and potential penalties.
-Reputation: Consistently meeting deadlines enhances the reputation of the development team and the organization.
+- Customer Satisfaction: Delays can lead to dissatisfaction, loss of trust, and potential loss of business.
+- Competitive Advantage: Delivering on time helps maintain a competitive edge in the market.
+- Cost Control: Delays often lead to increased costs due to extended resource utilization and potential penalties.
+- Reputation: Consistently meeting deadlines enhances the reputation of the development team and the organization.
 To ensure deadlines are met, project managers can:
 - Set Realistic Timelines: Avoid over-optimistic schedules by considering potential risks and uncertainties.
 - Break Down Tasks: Use a Work Breakdown Structure (WBS) to divide the project into manageable tasks.
